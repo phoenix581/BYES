@@ -1,0 +1,10 @@
+{
+  "appUUID" : "D2D39FD4-0A2D-4EFF-96C4-7ACD400CB42F",
+  "partnerIdentifier" : "bouygues.apps",
+  "name" : "uploaddocument",
+  "version" : "1.0.0",
+  "release" : "87.0.0.19-2",
+  "repositories" : [ {
+    "url" : "https://repo1.maven.org/maven2/"
+  } ]
+}
