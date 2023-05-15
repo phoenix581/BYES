@@ -3,7 +3,7 @@
   "partnerIdentifier" : "bouygues.apps",
   "name" : "uploaddocument",
   "version" : "1.0.0",
-  "release" : "87.0.0.19-2",
+  "release" : "87.0.0.22-1",
   "repositories" : [ {
     "url" : "https://repo1.maven.org/maven2/"
   } ]
