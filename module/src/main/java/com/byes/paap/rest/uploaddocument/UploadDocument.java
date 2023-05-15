@@ -114,7 +114,6 @@ public class UploadDocument
         }
         // see if there is anything we cannot handle
         if (!(messageHandler.canReply())) {
-            // nothing to answer. can't handle
             throw e;
         }
         
